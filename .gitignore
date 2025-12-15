@@ -1,0 +1,8 @@
+# Track only Unity Assets folder
+/*
+!.gitignore
+!Game/
+Game/*
+!Game/Assets/
+!Game/Assets.meta
+!Game/Assets/**
